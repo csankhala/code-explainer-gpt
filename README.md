@@ -5,6 +5,10 @@ Disclaimer: Based on Open API samples
 1. Enter your code in text area and submit
 2. This will explain code's language, purpose, better alternatives
 
+## Demo (hosted on Render)
+
+https://code-explainer-gpt.onrender.com/
+
 ## Setup
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
